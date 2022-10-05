@@ -1,0 +1,1 @@
+import{_ as c}from"./index.99c02a77.js";import{o as r,d as n}from"./vendor.d70d1cce.js";var e={};const o={};function t(a,s){return r(),n("div",null,"RepairConsole")}typeof e=="function"&&e(o);var i=c(o,[["render",t]]);export{i as default};

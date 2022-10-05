@@ -1,0 +1,1 @@
+import{_ as r}from"./index.99c02a77.js";import{o as c,d as t}from"./vendor.d70d1cce.js";var o={};const e={};function n(a,f){return c(),t("div",null,"RepairMotor")}typeof o=="function"&&o(e);var i=r(e,[["render",n]]);export{i as default};
